@@ -1,14 +1,14 @@
 <img src="https://media.githubusercontent.com/media/ssell/ssell/main/media/ShaderBallTransparent.png" width="128" height="128" align="left"/>
----
 
+<br/>
 Graphics, engine, and system programming enthusiast with a focus on C#, C++, and shaders. 
 
 Personal site: https://www.vertexfragment.com
 
 Can also find me on [StackOverflow](http://stackoverflow.com/users/735425/ssell) and [ShaderToy](https://www.shadertoy.com/user/ssell).
 
----
-
+<br/>
+<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ssell&theme=vue)
 
