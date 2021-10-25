@@ -12,7 +12,7 @@ Can also find me on [StackOverflow](http://stackoverflow.com/users/735425/ssell)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ssell&theme=vue)
 
-![](https://github-readme-stats.vercel.app/api?username=ssell&count_private=true&theme=vue&show_icons=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=ssell&count_private=true&theme=vue&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssell&count_private=true&theme=vue&show_icons=true&layout=compact&langs_count=5&hide=HTML,Python)
 
