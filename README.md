@@ -3,7 +3,15 @@
 [![Stack Overflow Badge](https://img.shields.io/badge/stackoverflow-%20-2d2d2d?style=for-the-badge&logo=Stack%20Overflow&logoColor=orange&color=orange)](https://stackoverflow.com/users/735425/ssell)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%20-blue?style=for-the-badge&logo=Linkedin&logoColor=blue&labelColor=fafafa)](https://www.linkedin.com/in/steven-sell-b8621b168/)
 
+---
 
+Senior Software Engineer with over 11 years of professional experience in C++, C#, Java, and shader programming across various domains (modelling and simulation, image recognition and processing, etc.).
+
+By day I am the Team Lead of Data & Integrations at a startup tech-focused insurance company, and at night I am an enthusiast graphics, engine, and systems programmer. Most of what I have learned has been self-taught, primarily from free and open-source resources online and so I try to do my part in sharing knowledge to keep that tradition going.
+
+All public code is distributed _as-is_ for educational purposes. Feel free to [send me any comments or questions](https://www.vertexfragment.com/about/).
+
+---
 
 
 
