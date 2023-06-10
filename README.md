@@ -13,14 +13,7 @@ All public code is distributed _as-is_ for educational purposes. Feel free to [s
 
 ---
 
-
-
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ssell&theme=vue)
-
-![](https://github-readme-stats.vercel.app/api?username=ssell&count_private=true&theme=vue&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssell&count_private=true&theme=vue&show_icons=true&layout=compact&langs_count=5&hide=HTML,Python)
 
 ---
 
