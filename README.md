@@ -13,7 +13,7 @@ All public code is distributed _as-is_ for educational purposes. Feel free to [s
 
 ---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ssell&theme=vue)
+[![GitHub Streak](https://github-readme-streak-statss-theta.vercel.app?user=ssell&theme=vue-dark)](https://git.io/streak-stats)
 
 ---
 
