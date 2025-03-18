@@ -9,7 +9,7 @@ Senior Software Engineer with over 14 years of professional experience in C++, C
 
 By day I am the Team Lead of Data & Integrations at a startup tech-focused insurance company, and at night I am an enthusiast graphics, engine, and systems programmer. Most of what I have learned has been self-taught, primarily from free and open-source resources online and so I try to do my part in sharing knowledge to keep that tradition going.
 
-All public code is distributed _as-is_ for educational purposes. Feel free to [send me any comments or questions](https://www.vertexfragment.com/about/).
+All public code is distributed _as-is_. Feel free to [send me any comments or questions](https://www.vertexfragment.com/about/).
 
 ---
 
