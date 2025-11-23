@@ -6,7 +6,7 @@
 
 ---
 
-Senior Software Engineer with over 14 years of professional experience in C++, C#, and shader programming across various domains (modelling and simulation, image recognition and processing, etc.).
+Senior Software Engineer with over 15 years of professional experience in C++, C#, and shader programming across various domains (modelling and simulation, image recognition and processing, etc.).
 
 By day I am the Team Lead of Data & Integrations at a startup tech-focused insurance company, and at night I am an enthusiast graphics, engine, and systems programmer and creator of [Ponder TCG](https://www.pondertcg.com) ([my profile](https://pondertcg.com/user/ssell)). Most of what I have learned has been self-taught, primarily from free and open-source resources online and so I try to do my part in sharing knowledge to keep that tradition going.
 
