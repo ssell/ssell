@@ -8,7 +8,7 @@
 
 Principal Software Engineer with over 16 years of professional experience in C++, C#, and shader programming across various domains (modelling and simulation, image recognition and processing, etc.).
 
-By day I work for a large national bank, and at night I am an enthusiast graphics, engine, and systems programmer and creator of [Ponder TCG](https://www.pondertcg.com) ([my profile](https://pondertcg.com/user/ssell)) and the [LITL Game Engine](https://github.com/ssell/LITL). Most of what I have learned has been self-taught, primarily from free and open-source resources online and so I try to do my part in sharing knowledge to keep that tradition going.
+By day I work for a large national bank, and at night I am an enthusiast graphics, engine, and systems programmer and am the creator of [Ponder TCG](https://www.pondertcg.com) ([my profile](https://pondertcg.com/user/ssell)) and the [LITL Game Engine](https://github.com/ssell/LITL). Most of what I have learned has been self-taught, primarily from free and open-source resources online and so I try to do my part in sharing knowledge to keep that tradition going.
 
 All public code is distributed _as-is_. Feel free to [send me any comments or questions](https://www.vertexfragment.com/about/).
 
